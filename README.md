@@ -38,5 +38,5 @@
 ---
 
 ### My Stats :
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=shettysurabhi22&theme=github-dark-blue&hide_border=true" alt="shettysurabhi22"/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shettysurabhi22&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=surabhishetty22&theme=github-dark-blue&hide_border=true" alt="surabhishetty22"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=surabhishetty22&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>
